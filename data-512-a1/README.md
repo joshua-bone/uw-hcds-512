@@ -1,5 +1,5 @@
-# Joshua Bone
-### A1 - Data Curation
+# A1 - Data Curation
+### Joshua Bone
 #### UW - DATA 512 - 2018-10-14
 
 ##### Goal:
